@@ -1,0 +1,11 @@
+C:\Users\wicho\source\repos\Taller1\Shared\bin\Debug\net6.0\Taller1.Shared.deps.json
+C:\Users\wicho\source\repos\Taller1\Shared\bin\Debug\net6.0\Taller1.Shared.dll
+C:\Users\wicho\source\repos\Taller1\Shared\bin\Debug\net6.0\Taller1.Shared.pdb
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.AssemblyInfoInputs.cache
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.AssemblyInfo.cs
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.dll
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\refint\Taller1.Shared.dll
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\Taller1.Shared.pdb
+C:\Users\wicho\source\repos\Taller1\Shared\obj\Debug\net6.0\ref\Taller1.Shared.dll
